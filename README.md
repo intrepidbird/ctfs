@@ -1,1 +1,1 @@
-# ctfs
+# CTFs
